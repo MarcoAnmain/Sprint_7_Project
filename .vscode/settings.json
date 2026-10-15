@@ -3,10 +3,16 @@
     "python-envs.defaultPackageManager": "ms-python.python:conda",
     "cSpell.words": [
         "anio",
+        "chevrolet",
         "descripcion",
+        "grafico",
         "INEGI",
+        "mazda",
+        "nissan",
         "pais",
         "tipeo",
-        "vehiculo"
+        "toyota",
+        "vehiculo",
+        "volkswagen"
     ]
 }
