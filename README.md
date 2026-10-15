@@ -77,4 +77,4 @@ Para ejecutar el notebook también se necesitan `ipykernel` y `nbformat`.
 
 ## Aplicación en Render
 
-Pendiente de despliegue. Se añadirá aquí el enlace público.
+[Acceder al panel de ventas](https://ventas-autos-mexico.onrender.com)
